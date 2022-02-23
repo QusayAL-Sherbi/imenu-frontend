@@ -10,7 +10,17 @@
   font-size: 3rem;
 }
 
+.main-section {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  overflow: hidden;
+}
+
 .main-section .container p {
   width: 800px;
   margin: 0 auto;
+}
+
+.main-section .container img {
+  max-height: 400px;
 }
