@@ -489,14 +489,14 @@ body {
 }
 /* End Our Skills Section Rules */
 
-/* Start Gallery Section Rules */
-.gallery {
+/* Start works Section Rules */
+.works {
   padding-top: 50px;
   padding-bottom: 50px;
   text-align: center;
 }
 
-.gallery h2 {
+.works h2 {
   font-weight: bold;
   font-size: 30px;
   color: var(--main-color);
@@ -504,12 +504,12 @@ body {
   text-align: center;
 }
 
-.gallery .images-box {
+.works .images-box {
   text-align: center;
   /* cursor: pointer; */
 }
 
-.gallery .images-box img {
+.works .images-box img {
   width: 200px;
   padding: 3px;
   background-color: #f6f6f6;
@@ -519,7 +519,7 @@ body {
 }
 
 @media (max-width: 575px) {
-  .gallery .images-box img {
+  .works .images-box img {
     width: 100%;
   }
 }
@@ -571,7 +571,7 @@ body {
   line-height: 40px;
   font-size: 20px;
 }
-/* End Gallery Section Rules */
+/* End works Section Rules */
 
 /* Start Timeline Section Rules */
 .timeline {
