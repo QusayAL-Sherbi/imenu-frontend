@@ -17,6 +17,7 @@ const Header = () => {
               <li><a href="#" data-section=".works">Works</a></li>
               <li><a href="#" data-section=".testimonials">Testimonials</a></li>
               <li><a href="#" data-section=".contact">contact</a></li>
+              <li><a href="#">Login/Register</a></li>
             </ul>
             <button className="toggle-menu">
               <span></span>
