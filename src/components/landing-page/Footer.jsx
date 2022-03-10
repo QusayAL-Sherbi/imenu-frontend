@@ -1,12 +1,13 @@
 
-let Footer = () => {
+
+const Footer = () => {
   return (
     <footer>
       <div className="container">
-        <p>All Rights Reserved 2022</p>
+        Created By Qusay AL-Sherbi
       </div>
     </footer>
   )
 }
 
-export default Footer
+export default Footer;
