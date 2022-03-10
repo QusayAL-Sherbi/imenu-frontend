@@ -2,7 +2,7 @@
 
 const Works = () => {
   return (
-    <section className="gallery">
+    <section className="works">
       <div className="container">
         <h2>Works</h2>
         <div className="images-box">

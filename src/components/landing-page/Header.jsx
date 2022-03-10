@@ -7,7 +7,7 @@ const Header = () => {
       <div className="container">
         <div className="header-aria">
           <div className="logo">
-            <h2>Special Template</h2>
+            <h2>iMenu</h2>
           </div>
           <div className="links-container">
             <ul className="links">
@@ -27,8 +27,8 @@ const Header = () => {
         </div>
       </div>
       <div className="introduction-text">
-        <h1><span>Special Template</span></h1>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae expedita aut, laborum delectus cupiditate atque corrupti facilis commodi saepe harum nisi nesciunt veritatis corporis nihil ratione ipsa reiciendis iste praesentium?</p>
+        <h1><span>iMenu</span></h1>
+        <p>Build Your Own Menu For Your Resturant's</p>
       </div>
     </div>
     // <!-- End Landing Page -->
