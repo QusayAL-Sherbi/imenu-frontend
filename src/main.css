@@ -963,7 +963,8 @@ body {
   outline: 1px solid var(--main-color);
 }
 
-.contact-us form input[type="submit"] {
+.contact-us form input[type="submit"],
+.btn {
   width: 100%;
   padding: 10px;
   border-color: transparent;

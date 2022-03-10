@@ -2,8 +2,10 @@ const Contact = () => {
   return (
     <section className="contact-us">
       <div className="overlay"></div>
-      <div className="container"></div>
-      <h2>Contact US</h2>
+      <div className="container">
+        <h2>Contact US</h2>
+      </div>
+      
       <form>
         <div className="left">
           <input type="text" name="username" id="" placeholder="Your Name" />
